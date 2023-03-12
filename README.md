@@ -15,6 +15,8 @@ Initial attempt to create a solution for stakeholders of Podcast & Long-form spo
 
 ## The Plan
 
+- Initial data source --> [Kaggle Podcast Reviews] (https://www.kaggle.com/datasets/thoughtvector/podcastreviews?resource=download)
+
 
 
 
