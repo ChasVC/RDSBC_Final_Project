@@ -2,10 +2,9 @@
 
 Initial attempt to create a solution for stakeholders of Podcast & Long-form spoken word companies who wish to leverage ratings and review information in their business decisions. While the intial driver of this work was to complete the final assingment for Rutgers Data Science Bootcamp, it's since been learned that a real-world need may exist. 
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
 
-## Getting Started
+
+--## Getting Started
 
 These instructions tk tk
 
