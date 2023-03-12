@@ -6,14 +6,17 @@ Initial attempt to create a solution for stakeholders of Podcast & Long-form spo
 ## The Plan
 
 - Write some user stories to build against
-- Find some existing data source that approximates what would be used in Production
+- Find existing data sources that approximates what would be used in Production
 - Create mockup in Excel using dummy data and/or test data. Use whatever methods necessary
 - 
 
 
+<!--
 -- ## Getting Started
 
 --These instructions tk tk
+
+-->
 
 ### Prerequisites
 
