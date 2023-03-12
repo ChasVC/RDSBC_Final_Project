@@ -16,6 +16,13 @@ Initial attempt to create a solution for stakeholders of Podcast & Long-form spo
 ## The Plan
 
 - Initial data source --> [Kaggle Podcast Reviews](https://www.kaggle.com/datasets/thoughtvector/podcastreviews?resource=download)
+- Download data source to local
+- Pull data into Excel via Power Query, and handle transforms within
+- Create a Date Table (or connect to online source?)
+- Output Data and Date Table to Excel Data Model and add measures for basic KPIs such as Number of Reviews, Max/Min/Avg
+- Connect Data & Date Table
+- Output Pivot to Excel tab and build out mockup.
+- Will need to do something that mimics Sentiment Analysis. Will need to determine best method, probably via [Python](https://www.unite.ai/10-best-python-libraries-for-sentiment-analysis/)
 
 
 
