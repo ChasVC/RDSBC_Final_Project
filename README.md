@@ -3,10 +3,17 @@
 Initial attempt to create a solution for stakeholders of Podcast & Long-form spoken word companies who wish to leverage ratings and review information in their business decisions. While the intial driver of this work was to complete the final assingment for Rutgers Data Science Bootcamp, it's since been learned that a real-world need may exist. 
 
 
+## The Plan
 
---## Getting Started
+- Write some user stories to build against
+- Find some existing data source that approximates what would be used in Production
+- Create mockup in Excel using dummy data and/or test data. Use whatever methods necessary
+- 
 
-These instructions tk tk
+
+-- ## Getting Started
+
+--These instructions tk tk
 
 ### Prerequisites
 
